@@ -12,3 +12,4 @@ You may not re-publish the source by any means, including posting on the Interne
 
 This relates to the book: C# Design Pattern Essentials, by Tony Bevis. Published by Ability First Limited. Available from http://abraxabooks.co.uk in the UK and from Amazon worldwide.
 
+Copyright 2012, Ability First Limited.
