@@ -17,7 +17,7 @@ namespace Chapter02
         {
             get
             {
-                return "Window glassware for a car";
+                return "Window glassware for a van";
             }
         }
 
